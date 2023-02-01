@@ -18,8 +18,8 @@ const HeroBanner = () => (
       mb="23px"
       mt="30px"
     >
-      Sweat, Smile <br />
-      And Repeat
+      No Pain <br />
+      No Gain
     </Typography>
     <Typography fontSize="22px" fontFamily="Alegreya" lineHeight="35px">
       Check out the most effective exercises personalized to you
