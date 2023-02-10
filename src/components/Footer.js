@@ -20,7 +20,7 @@ const Footer = () => (
       textAlign="center"
       pb="40px"
     >
-      Made with ❤️ by JavaScript Mastery
+      Gain muscle with us
     </Typography>
   </Box>
 );
